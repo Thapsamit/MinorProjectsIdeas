@@ -7,6 +7,12 @@
 ## Web Scraping + discord bot
 Features:-
 1 - Gives contest notifications from sites like codechef, hackkerrank,codestudio and gives add to event 
+    Codechef
+    Codestudio
+    hackerrank
+    gfg
+    
+    
 
 2 - Gives job notifications from internshala,linkedin,etc 
 
